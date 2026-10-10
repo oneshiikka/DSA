@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/oneshiikka/DSA/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/oneshiikka/DSA/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/oneshiikka/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
